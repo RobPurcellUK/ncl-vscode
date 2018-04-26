@@ -18,6 +18,6 @@ NCL support for vscode
 
 Package the TextMate language support from http://www.ncl.ucar.edu/Applications/editor.shtml#textmate
 
-### 1.0.0
+### 0.0.1
 
 Initial release of ncl language support.
